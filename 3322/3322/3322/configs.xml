@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configs>
+<password>
+  <domain>
+  </domain>
+  <uname>
+  </uname>
+  <pass>
+  </pass>
+</password>
+<config>
+  <autorun>false</autorun>
+  <logstart>true</logstart>
+  <logstop>true</logstop>
+  <notifyIcon>true</notifyIcon>
+  <hidden>false</hidden>
+  <gxpl></gxpl>
+</config>
+<bywords>
+  <byword>
+    <id>1</id>
+    <bytxt>你若要喜爱你自己的价值，你就得给世界创造价值。(歌德)</bytxt>
+  </byword>
+  <byword>
+    <id>2</id>
+    <bytxt>原谅敌人要比原谅朋友容易。 （狄尔治夫人）</bytxt>
+  </byword>
+  <byword>
+    <id>3</id>
+    <bytxt>我们爱我们的民族，这是我们自信心的源泉。 （周恩来）</bytxt>
+  </byword>
+  <byword>
+    <id>4</id>
+    <bytxt>对人不尊敬，首先就是对自己的不尊敬。 （惠特曼）</bytxt>
+  </byword>
+  <byword>
+    <id>5</id>
+    <bytxt>心灵纯洁的人， 生活充满甜蜜和喜悦。 （列夫·托尔斯泰)</bytxt>
+  </byword>
+  <byword>
+    <id>6</id>
+    <bytxt>自我控制是最强者的本能。 （萧伯纳)</bytxt>
+  </byword>
+  <byword>
+    <id>7</id>
+    <bytxt>社会犹如一条船，每个人都要有掌舵的准备。 （易卜生)</bytxt>
+  </byword>
+  <byword>
+    <id>8</id>
+    <bytxt>先相信自己，然后别人才会相信你。 （罗曼·罗兰)</bytxt>
+  </byword>
+  <byword>
+    <id>9</id>
+    <bytxt>宿命论是那些缺乏的弱者的借口。 （拉罗什福科)</bytxt>
+  </byword>
+  <byword>
+    <id>10</id>
+    <bytxt>古之立大事者，不惟有超世之才，亦必有坚忍不拔之志。 (苏轼)</bytxt>
+  </byword>
+  <byword>
+    <id>11</id>
+    <bytxt>无论你怎样地表示愤怒，都不要做出任何无法挽回的事来。 （培 根）</bytxt>
+  </byword>
+  <byword>
+    <id>12</id>
+    <bytxt>与其皱着眉头送人一件贵重礼品，不如面带笑容送人一件小礼物。 （无名氏）</bytxt>
+  </byword>
+</bywords>
+</configs>
